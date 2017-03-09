@@ -9,47 +9,43 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="yen.20170108171605.1" a="E"><vh>@settings</vh>
-<v t="yen.20170108171605.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
-<v t="yen.20170108171605.3"><vh>@string initial_split_orientation = horizontal</vh></v>
-</v>
 <v t="yen.20170108171622.1"><vh>有關 2017springcd</vh></v>
 <v t="yen.20170108171733.1" a="E"><vh>@path ../</vh>
 <v t="yen.20170108171733.2"><vh>@button pelican-blog</vh></v>
 <v t="yen.20170108171733.3"><vh>@edit README.md</vh></v>
 <v t="yen.20170108171733.4"><vh>@edit .gitignore</vh></v>
-<v t="yen.20170108171733.5" a="E"><vh>Pelican 設定</vh>
+<v t="yen.20170108171733.5"><vh>Pelican 設定</vh>
 <v t="yen.20170108171733.6"><vh>@edit local_publishconf.py</vh></v>
 <v t="yen.20170108171733.7"><vh>@edit pelicanconf.py</vh></v>
 </v>
-<v t="yen.20170215103217.1" a="E"><vh>編輯 template</vh>
-<v t="yen.20170215103228.1" a="E"><vh>@path theme/pelican-bootstrap3_local/templates</vh>
+<v t="yen.20170215103217.1"><vh>編輯 template</vh>
+<v t="yen.20170215103228.1"><vh>@path theme/pelican-bootstrap3_local/templates</vh>
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
-<v t="yen.20170120110024.2" a="E"><vh>html</vh>
+<v t="yen.20170120110024.1"><vh>@clean index.html</vh>
+<v t="yen.20170120110024.2"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
-<v t="yen.20170120110024.4" a="E"><vh>body</vh>
-<v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
-<v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
-<v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
+<v t="yen.20170120110024.4"><vh>body</vh>
+<v t="yen.20170120110024.5"><vh>reveal div</vh>
+<v t="yen.20170120110024.6"><vh>slides div</vh>
+<v t="yen.20170120110024.7"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
-<v t="yen.20170120110024.9" a="E"><vh>快捷鍵</vh>
+<v t="yen.20170120110024.9"><vh>快捷鍵</vh>
 <v t="yen.20170120110024.10"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="yen.20170120110024.11" a="E"><vh>各式內容引用範例</vh>
-<v t="yen.20170120110024.12" a="E"><vh>Week1</vh>
+<v t="yen.20170120110024.11"><vh>各式內容引用範例</vh>
+<v t="yen.20170120110024.12"><vh>Week1</vh>
 <v t="yen.20170120110024.13"><vh>內容</vh></v>
 </v>
-<v t="yen.20170120110024.14" a="E"><vh>Week1-1</vh>
+<v t="yen.20170120110024.14"><vh>Week1-1</vh>
 <v t="yen.20170120110024.15"><vh>內容1</vh></v>
 </v>
-<v t="leo.20170308173636.1" a="E"><vh>Week1-2</vh>
+<v t="leo.20170308173636.1"><vh>Week1-2</vh>
 <v t="leo.20170308173636.2"><vh>內容2</vh></v>
 </v>
-<v t="yen.20170120110024.16" a="E"><vh>導入影片</vh>
+<v t="yen.20170120110024.16"><vh>導入影片</vh>
 <v t="yen.20170120110024.17"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
@@ -59,7 +55,7 @@
 </v>
 </v>
 <v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
-<v t="yen.20170123225841.1"><vh>@edit 20170108.md</vh></v>
+<v t="yen.20170123225841.1"><vh>@edit 20170302.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -68,8 +64,8 @@
 </v>
 <v t="yen.20170108171930.1"><vh>@button https server</vh></v>
 <v t="yen.20170108171939.1"><vh>@button ipv6 https server</vh></v>
-<v t="yen.20170120212350.1" a="E"><vh>programs</vh>
-<v t="yen.20170210153828.1" a="E"><vh>v-rep rempte api</vh>
+<v t="yen.20170120212350.1"><vh>programs</vh>
+<v t="yen.20170210153828.1"><vh>v-rep rempte api</vh>
 <v t="yen.20170210202015.1"><vh>Python remote API</vh></v>
 <v t="yen.20170210170248.1"><vh>line tracer</vh></v>
 <v t="yen.20170210222733.1"><vh>line tracer2</vh></v>
@@ -81,7 +77,7 @@
 <v t="yen.20170120232548.1"><vh>calendar example</vh></v>
 <v t="yen.20170123204227.1"><vh>印出月曆以及各課程上課日期</vh></v>
 <v t="yen.20170207092354.1"><vh>協同程式參考</vh></v>
-<v t="yen.20170124102405.1" a="E"><vh>chat</vh>
+<v t="yen.20170124102405.1"><vh>chat</vh>
 <v t="yen.20170124102433.1"><vh>index.html</vh></v>
 </v>
 </v>
@@ -127,82 +123,6 @@ make = threading.Thread(target=domake)
 make.start()
 ```
 </t>
-<t tx="yen.20170108171605.1"></t>
-<t tx="yen.20170108171605.2">QTreeWidget {
-    /* These apply to the selected item, but not to editing items.*/
-    background-color: #ffffec; /* Leo's traditional tree color */
-    selection-color: black; /* was white */
-    selection-background-color: lightgrey;
-    /* font-family: SansSerif; */
-    /*font-family: DejaVu Sans Mono;*/
-    font-family:YaHei Mono;
-    /* 標題字型大小設定 */
-    font-size: 20px;
-    font-weight: normal; /* normal,bold,100,..,900 */
-    font-style: normal; /* normal, italic,oblique */
- }
-
-/* Headline edit widgets */
-QTreeWidget QLineEdit {
-    background-color: cornsilk;
-    selection-color: white;
-    selection-background-color: blue;
-    /*font-family: DejaVu Sans Mono;*/    
-    font-family:YaHei Mono;
-    /* 沒有特別對應字型大小 */
-    font-size: 20px;
-    font-weight: normal; /* normal,bold,100,..,900 */
-    font-style: normal; /* normal, italic,oblique */
-}
-
-/* The log panes */
-QTextEdit {
-    background-color: #f2fdff;
-    selection-color: red;
-    selection-background-color: blue;
-    /* font-family: Courier New; */
-    font-family:YaHei Mono;
-    /* log font 大小 */
-    font-size: 20px;
-    font-weight: normal; /* normal,bold,100,..,900 */
-    font-style: normal; /* normal, italic,oblique */
-}
-
-/* The body pane */
-QTextEdit#richTextEdit {
-    background-color: #fdf5f5; /* A kind of pink. */
-    selection-color: white;
-    selection-background-color: red;
-    /*font-family: DejaVu Sans Mono;*/
-    /* font-family: Courier New; */
-    font-family:YaHei Mono;
-    /* 內文字型大小 */
-    font-size: 20px;
-    font-weight: normal; /* normal,bold,100,..,900 */
-    font-style: normal; /* normal,italic,oblique */
-}
-
-QLabel {
-    font-family:YaHei Mono;'CherryPy', 'pytz', 'mako', 'beautifulsoup4', 'pymysql', 'peewee'
-    /* 下方的 Minibuffer 標題字型大小 */
-    font-size: 20px;
-    font-weight: normal; /* normal,bold,100,..,900 */
-    font-style: normal; /* normal,italic,oblique */
-}
-
-/* Editor labels */
-QLineEdit#editorLabel {
-    background-color: #ffffec;
-    font-family:YaHei Mono;
-    /* 沒有直接對應字型大小 */
-    font-size: 20px;
-    font-weight: normal; /* normal,bold,100,..,900 */
-    font-style: normal; /* normal,italic,oblique */
-    border: 2px;
-    margin: 2px;
-}</t>
-<t tx="yen.20170108171605.3">horizontal: body pane to the left
-vertical: body pane on the botton</t>
 <t tx="yen.20170108171622.1">2017 Spring CD 機械設計工程系協同產品設計實習
 
 倉儲位置: https://github.com/mdecourse/2017springcd
