@@ -153,7 +153,10 @@ n = 24
 # 壓力角
 pa = 20
 Spur(ctx).Gear(x, y, r, n, pa, "pink")
-&lt;/script&gt;</summary><category term="syllabus"></category><category term="w15"></category></entry><entry><title>2017Springcd第10週</title><link href="./2017spring-cd%20Week10.html" rel="alternate"></link><published>2017-05-03T11:00:00+08:00</published><updated>2017-05-03T11:00:00+08:00</updated><author><name>40423150</name></author><id>tag:,2017-05-03:./2017spring-cd Week10.html</id><summary type="html">&lt;!-- 導入 Brython 標準程式庫 --&gt;
+&lt;/script&gt;</summary><category term="syllabus"></category><category term="w15"></category></entry><entry><title>2017Springcd第10週</title><link href="./2017spring-cd%20Week10.html" rel="alternate"></link><published>2017-05-03T11:00:00+08:00</published><updated>2017-05-03T11:00:00+08:00</updated><author><name>40423150</name></author><id>tag:,2017-05-03:./2017spring-cd Week10.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;Brython測試&lt;/p&gt;
+&lt;!-- 導入 Brython 標準程式庫 --&gt;
 
 &lt;script src="../data/Brython-3.3.1/brython.js"&gt;&lt;/script&gt;
 
