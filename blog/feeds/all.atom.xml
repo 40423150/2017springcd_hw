@@ -153,9 +153,41 @@ n = 24
 # 壓力角
 pa = 20
 Spur(ctx).Gear(x, y, r, n, pa, "pink")
-&lt;/script&gt;</summary><category term="syllabus"></category><category term="w15"></category></entry><entry><title>2017Springcd第七週</title><link href="./2017spring-cd%20Week7.html" rel="alternate"></link><published>2017-04-13T11:00:00+08:00</published><updated>2017-04-13T11:00:00+08:00</updated><author><name>40423150</name></author><id>tag:,2017-04-13:./2017spring-cd Week7.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;/script&gt;</summary><category term="syllabus"></category><category term="w15"></category></entry><entry><title>2017Springcd第10週</title><link href="./2017spring-cd%20Week10.html" rel="alternate"></link><published>2017-05-03T11:00:00+08:00</published><updated>2017-05-03T11:00:00+08:00</updated><author><name>40423150</name></author><id>tag:,2017-05-03:./2017spring-cd Week10.html</id><summary type="html">&lt;!-- 導入 Brython 標準程式庫 --&gt;
 
-&lt;h1&gt;上網翻譯影片&lt;/h1&gt;
+&lt;script src="../data/Brython-3.3.1/brython.js"&gt;&lt;/script&gt;
+
+&lt;script src="../data/Brython-3.3.1/brython_stdlib.js"&gt;&lt;/script&gt;
+
+&lt;!-- 啟動 Brython --&gt;
+
+&lt;script&gt;
+window.onload=function(){
+// 設定 data/py 為共用程式路徑
+brython({debug:1, pythonpath:['./../data/py']});
+}
+&lt;/script&gt;
+
+&lt;!-- 以下實際利用  Brython 畫四連桿 trace point 路徑--&gt;
+
+&lt;!--&lt;canvas id="w10" width="800" height="600"&gt;&lt;/canvas&gt;--&gt;
+
+&lt;div id="container" width="600" height="400"&gt;&lt;/div&gt;
+
+&lt;script type="text/python3"&gt;
+from browser import document as doc
+from browser import html
+import math
+container = doc['container']
+degree = math.pi/180
+def button1(event):
+    a = input("give me a")
+    container &lt;= str(math.cos(60*degree)+float(a))
+doc["button1"].bind("click", button1)
+&lt;/script&gt;
+
+&lt;p&gt;&lt;button id="button1"&gt;按下取 a 值&lt;/button&gt;&lt;/p&gt;</summary><category term="syllabus"></category><category term="w10"></category></entry><entry><title>2017Springcd第七週</title><link href="./2017spring-cd%20Week7.html" rel="alternate"></link><published>2017-04-13T11:00:00+08:00</published><updated>2017-04-13T11:00:00+08:00</updated><author><name>40423150</name></author><id>tag:,2017-04-13:./2017spring-cd Week7.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
 &lt;p&gt;利用SolveSpace畫Fourbar Walker圖片
 &lt;iframe src="https://player.vimeo.com/video/222522284" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/222522284"&gt;40423150_2017_06_21_22_18_12_381&lt;/a&gt; from &lt;a href="https://vimeo.com/user44209237"&gt;40423150&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
