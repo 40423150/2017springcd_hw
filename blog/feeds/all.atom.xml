@@ -349,7 +349,11 @@ ctx.translate(-x_g2, -y_g2)
 Spur(ctx).Gear(x_g2, y_g2, rp_g2, n_g2, pa, "black")
 ctx.restore()
 
-&lt;/script&gt;</summary><category term="syllabus"></category><category term="w11.2"></category></entry><entry><title>2017Springcd第11週</title><link href="./2017spring-cd%20Week11.html" rel="alternate"></link><published>2017-05-10T11:00:00+08:00</published><updated>2017-05-10T11:00:00+08:00</updated><author><name>40423150</name></author><id>tag:,2017-05-10:./2017spring-cd Week11.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;</summary><category term="syllabus"></category><category term="w11"></category></entry><entry><title>2017Springcd第10週</title><link href="./2017spring-cd%20Week10.html" rel="alternate"></link><published>2017-05-03T11:00:00+08:00</published><updated>2017-05-03T11:00:00+08:00</updated><author><name>40423150</name></author><id>tag:,2017-05-03:./2017spring-cd Week10.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;/script&gt;</summary><category term="syllabus"></category><category term="w11.2"></category></entry><entry><title>2017Springcd第11週</title><link href="./2017spring-cd%20Week11.html" rel="alternate"></link><published>2017-05-10T11:00:00+08:00</published><updated>2017-05-10T11:00:00+08:00</updated><author><name>40423150</name></author><id>tag:,2017-05-10:./2017spring-cd Week11.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/222529452" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/222529452"&gt;40423150_2017_06_21_22_57_06_220&lt;/a&gt; from &lt;a href="https://vimeo.com/user44209237"&gt;40423150&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="syllabus"></category><category term="w11"></category></entry><entry><title>2017Springcd第10週</title><link href="./2017spring-cd%20Week10.html" rel="alternate"></link><published>2017-05-03T11:00:00+08:00</published><updated>2017-05-03T11:00:00+08:00</updated><author><name>40423150</name></author><id>tag:,2017-05-03:./2017spring-cd Week10.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;Brython測試&lt;/p&gt;
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
