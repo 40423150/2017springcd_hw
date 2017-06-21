@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-06-15T11:00:00+08:00</updated><entry><title>2017Springcd第十七週</title><link href="./2017spring-cd%20Week17.html" rel="alternate"></link><published>2017-06-15T11:00:00+08:00</published><updated>2017-06-15T11:00:00+08:00</updated><author><name>40423150</name></author><id>tag:,2017-06-15:./2017spring-cd Week17.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-06-15T11:00:00+08:00</updated><entry><title>2017Springcd第十七週</title><link href="./2017spring-cd%20Week17.html" rel="alternate"></link><published>2017-06-15T11:00:00+08:00</published><updated>2017-06-15T11:00:00+08:00</updated><author><name>40423150</name></author><id>tag:,2017-06-15:./2017spring-cd Week17.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;期末任務 &lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+
 
 &lt;h1&gt;1.如何上傳&lt;/h1&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yS8amHfXdqk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
@@ -17,7 +18,11 @@
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vcii4QAkq6A" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h1&gt;完成連接&lt;/h1&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/c4D4zisqbs8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="syllabus"></category><category term="w17"></category></entry><entry><title>2017Springcd第十五週</title><link href="./2017spring-cd%20Week15.html" rel="alternate"></link><published>2017-06-01T11:00:00+08:00</published><updated>2017-06-01T11:00:00+08:00</updated><author><name>40423150</name></author><id>tag:,2017-06-01:./2017spring-cd Week15.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/c4D4zisqbs8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;期末心得:&lt;/p&gt;
+&lt;p&gt;經過老師一學期的教學 也讓我學了好多 尤其是組合件方面 算是一個新的接觸 讓我產生了很大的興趣 在加上開始使用程式來製作上課所需的東西 整題而言 我很喜歡這堂課。 &lt;/p&gt;</summary><category term="syllabus"></category><category term="w17"></category></entry><entry><title>2017Springcd第十五週</title><link href="./2017spring-cd%20Week15.html" rel="alternate"></link><published>2017-06-01T11:00:00+08:00</published><updated>2017-06-01T11:00:00+08:00</updated><author><name>40423150</name></author><id>tag:,2017-06-01:./2017spring-cd Week15.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;齒輪製作 &lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+
 
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
@@ -171,7 +176,8 @@ n = 24
 # 壓力角
 pa = 20
 Spur(ctx).Gear(x, y, r, n, pa, "pink")
-&lt;/script&gt;</summary><category term="syllabus"></category><category term="w15"></category></entry><entry><title>2017Springcd第11.2週</title><link href="./2017spring-cd%20Week11.2.html" rel="alternate"></link><published>2017-05-11T11:00:00+08:00</published><updated>2017-05-11T11:00:00+08:00</updated><author><name>40423150</name></author><id>tag:,2017-05-11:./2017spring-cd Week11.2.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;/script&gt;</summary><category term="syllabus"></category><category term="w15"></category></entry><entry><title>2017Springcd第11.2週</title><link href="./2017spring-cd%20Week11.2.html" rel="alternate"></link><published>2017-05-11T11:00:00+08:00</published><updated>2017-05-11T11:00:00+08:00</updated><author><name>40423150</name></author><id>tag:,2017-05-11:./2017spring-cd Week11.2.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;齒輪製作 &lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+
 
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
@@ -367,11 +373,13 @@ ctx.translate(-x_g2, -y_g2)
 Spur(ctx).Gear(x_g2, y_g2, rp_g2, n_g2, pa, "black")
 ctx.restore()
 
-&lt;/script&gt;</summary><category term="syllabus"></category><category term="w11.2"></category></entry><entry><title>2017Springcd第11週</title><link href="./2017spring-cd%20Week11.html" rel="alternate"></link><published>2017-05-10T11:00:00+08:00</published><updated>2017-05-10T11:00:00+08:00</updated><author><name>40423150</name></author><id>tag:,2017-05-10:./2017spring-cd Week11.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;/script&gt;</summary><category term="syllabus"></category><category term="w11.2"></category></entry><entry><title>2017Springcd第11週</title><link href="./2017spring-cd%20Week11.html" rel="alternate"></link><published>2017-05-10T11:00:00+08:00</published><updated>2017-05-10T11:00:00+08:00</updated><author><name>40423150</name></author><id>tag:,2017-05-10:./2017spring-cd Week11.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;onshape零件製作 &lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+
 
 &lt;iframe src="https://player.vimeo.com/video/222529452" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/222529452"&gt;40423150_2017_06_21_22_57_06_220&lt;/a&gt; from &lt;a href="https://vimeo.com/user44209237"&gt;40423150&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="syllabus"></category><category term="w11"></category></entry><entry><title>2017Springcd第10週</title><link href="./2017spring-cd%20Week10.html" rel="alternate"></link><published>2017-05-03T11:00:00+08:00</published><updated>2017-05-03T11:00:00+08:00</updated><author><name>40423150</name></author><id>tag:,2017-05-03:./2017spring-cd Week10.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/222529452"&gt;40423150_2017_06_21_22_57_06_220&lt;/a&gt; from &lt;a href="https://vimeo.com/user44209237"&gt;40423150&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="syllabus"></category><category term="w11"></category></entry><entry><title>2017Springcd第10週</title><link href="./2017spring-cd%20Week10.html" rel="alternate"></link><published>2017-05-03T11:00:00+08:00</published><updated>2017-05-03T11:00:00+08:00</updated><author><name>40423150</name></author><id>tag:,2017-05-03:./2017spring-cd Week10.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;Brython測試&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+
 
 &lt;p&gt;Brython測試&lt;/p&gt;
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
@@ -407,7 +415,8 @@ def button1(event):
 doc["button1"].bind("click", button1)
 &lt;/script&gt;
 
-&lt;p&gt;&lt;button id="button1"&gt;按下取 a 值&lt;/button&gt;&lt;/p&gt;</summary><category term="syllabus"></category><category term="w10"></category></entry><entry><title>2017Springcd第七週</title><link href="./2017spring-cd%20Week7.html" rel="alternate"></link><published>2017-04-13T11:00:00+08:00</published><updated>2017-04-13T11:00:00+08:00</updated><author><name>40423150</name></author><id>tag:,2017-04-13:./2017spring-cd Week7.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;&lt;button id="button1"&gt;按下取 a 值&lt;/button&gt;&lt;/p&gt;</summary><category term="syllabus"></category><category term="w10"></category></entry><entry><title>2017Springcd第七週</title><link href="./2017spring-cd%20Week7.html" rel="alternate"></link><published>2017-04-13T11:00:00+08:00</published><updated>2017-04-13T11:00:00+08:00</updated><author><name>40423150</name></author><id>tag:,2017-04-13:./2017spring-cd Week7.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;利用SolveSpace畫Fourbar Walker圖片 &lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+
 
 &lt;p&gt;利用SolveSpace畫Fourbar Walker圖片
 &lt;iframe src="https://player.vimeo.com/video/222522284" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -424,7 +433,8 @@ doc["button1"].bind("click", button1)
 &lt;p&gt;正在等待&lt;/p&gt;</summary><category term="syllabus"></category><category term="w4"></category></entry><entry><title>2017Springcd第三週</title><link href="./2017spring-cd%20Week3.html" rel="alternate"></link><published>2017-03-16T11:00:00+08:00</published><updated>2017-03-16T11:00:00+08:00</updated><author><name>40423150</name></author><id>tag:,2017-03-16:./2017spring-cd Week3.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h1&gt;上網翻譯影片&lt;/h1&gt;
-&lt;p&gt;正在等待1&lt;/p&gt;</summary><category term="syllabus"></category><category term="w3"></category></entry><entry><title>2017Springcd第二週</title><link href="./2017spring-cd%20Week2.html" rel="alternate"></link><published>2017-03-09T11:00:00+08:00</published><updated>2017-03-09T11:00:00+08:00</updated><author><name>40423150</name></author><id>tag:,2017-03-09:./2017spring-cd Week2.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;正在等待1&lt;/p&gt;</summary><category term="syllabus"></category><category term="w3"></category></entry><entry><title>2017Springcd第二週</title><link href="./2017spring-cd%20Week2.html" rel="alternate"></link><published>2017-03-09T11:00:00+08:00</published><updated>2017-03-09T11:00:00+08:00</updated><author><name>40423150</name></author><id>tag:,2017-03-09:./2017spring-cd Week2.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;影片翻譯 &lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+
 
 &lt;h1&gt;上網翻譯影片&lt;/h1&gt;
 &lt;p&gt;Optistuct's one of our focus area&lt;/p&gt;
@@ -446,7 +456,8 @@ doc["button1"].bind("click", button1)
 &lt;p&gt;depending on the level of expertise or depending on the job that the user has to do they can customize the user experience he added a few new connection one of them is a flux connection such as the electromagnetic code that we just&lt;/p&gt;
 &lt;p&gt;取決於專業水平或根據用戶必須做的工作，他們可以定制用戶體驗他添加了一些新的連接，其中一個是通量連接，如電磁代碼，我們只是&lt;/p&gt;
 &lt;p&gt;acquired for a low frequency electromagnetic we can now take a flux database and put it into hyper study into your study as well&lt;/p&gt;
-&lt;p&gt;獲得了一個低頻電磁，我們現在可以採取通量數據庫，並把它進入高速研究&lt;/p&gt;</summary><category term="syllabus"></category><category term="w2"></category></entry><entry><title>2017Springcd第一週</title><link href="./2017spring-cd%20Week1.html" rel="alternate"></link><published>2017-03-02T11:00:00+08:00</published><updated>2017-03-02T11:00:00+08:00</updated><author><name>40423150</name></author><id>tag:,2017-03-02:./2017spring-cd Week1.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;獲得了一個低頻電磁，我們現在可以採取通量數據庫，並把它進入高速研究&lt;/p&gt;</summary><category term="syllabus"></category><category term="w2"></category></entry><entry><title>2017Springcd第一週</title><link href="./2017spring-cd%20Week1.html" rel="alternate"></link><published>2017-03-02T11:00:00+08:00</published><updated>2017-03-02T11:00:00+08:00</updated><author><name>40423150</name></author><id>tag:,2017-03-02:./2017spring-cd Week1.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;四連機構 &lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+
 
 &lt;h1&gt;用solve space完成四連桿機構&lt;/h1&gt;
 &lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/209583563" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
