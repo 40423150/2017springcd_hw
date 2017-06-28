@@ -178,6 +178,8 @@ n = 24
 pa = 20
 Spur(ctx).Gear(x, y, r, n, pa, "pink")
 &lt;/script&gt;</summary><category term="syllabus"></category><category term="w15"></category></entry><entry><title>2017Springcd第12週</title><link href="./2017spring-cd%20Week12.html" rel="alternate"></link><published>2017-05-18T11:00:00+08:00</published><updated>2017-05-18T11:00:00+08:00</updated><author><name>40423150</name></author><id>tag:,2017-05-18:./2017spring-cd Week12.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;2D齒輪製作&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+
+
 &lt;?xml version="1.0" encoding="utf-8"?&gt;
 &lt;!-- Created by Leo: http://leoeditor.com/leo_toc.html --&gt;
 &lt;leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" &gt;
